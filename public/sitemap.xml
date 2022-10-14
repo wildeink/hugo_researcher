@@ -2,8 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://chrisjoy.asia/</loc>
+    <loc>https://chrisjoy.asia/cv/</loc>
+    <priority>0</priority>
   </url><url>
     <loc>https://chrisjoy.asia/</loc>
+  </url><url>
+    <loc>https://chrisjoy.asia/contact/</loc>
+  </url><url>
+    <loc>https://chrisjoy.asia/main/</loc>
   </url>
 </urlset>

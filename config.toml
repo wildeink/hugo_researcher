@@ -29,10 +29,6 @@ googleAnalytics = ""  # add your tracking id
     icon = "fas fa-envelope"
     title = "E-mail"
     url = "mailto:chrisjoy@fastmail.to"
- # [[params.socialIcons]]
- ###   icon = "ai ai-google-scholar"
-  ##  title = "Scholar"
- #  url = "https://scholar.google.com/"
 
 [permalinks]
   "/" = "/:filename"
@@ -40,7 +36,7 @@ googleAnalytics = ""  # add your tracking id
 [menu]
   [[menu.main]]
     name = "Main"
-    url = "/"
+    url = "/main"
     weight = 1
   [[menu.main]]
     name = "CV"
