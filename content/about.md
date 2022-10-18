@@ -22,6 +22,7 @@ ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
 ## Publications
 
 In chronological order:
+
 1. F.Bar, J.Doe: Effects of having a placeholder of a name
 2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
 
