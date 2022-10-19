@@ -19,5 +19,5 @@ title = "Contact"
 
 ## Social
 
-1. [Twitter](twitter.com/EdTeach__)
+1. [Twitter](http://twitter.com/EdTeach__)
 <!-- 2. [Google+](#) -->
