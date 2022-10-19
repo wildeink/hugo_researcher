@@ -2,7 +2,7 @@
 title = "Contact"
 +++
 
-* Email: [chris@chrisjoy.asia](chris@chrisjoy.asia)
+* Email: [chris [at] chrisjoy [dot] asia](#)
 <!-- * Phone: [+91-123123](tel:+91-123123) -->
 
 ---
