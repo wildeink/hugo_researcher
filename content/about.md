@@ -1,8 +1,8 @@
 +++
-title = "Main"
+title = "Christopher Joy | chrisjoy.asia"
 +++
 
-## Main Me
+## About 
 
 {{< figure class="avatar" src="/chris_new_new.png" alt="avatar">}}
 
