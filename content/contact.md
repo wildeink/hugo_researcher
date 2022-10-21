@@ -1,5 +1,5 @@
 +++
-title = "Contact"
+title = "Christopher Joy | Contact"
 +++
 
 * Email: [chris [at] chrisjoy [dot] asia](#)
