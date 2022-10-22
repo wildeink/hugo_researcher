@@ -3,7 +3,6 @@ title = "Christopher Joy | Works"
 +++
 ## Works
 
-
 * Email: [chris [at] chrisjoy [dot] asia](#)
 <!-- * Phone: [+91-123123](tel:+91-123123) -->
 
