@@ -25,20 +25,22 @@ University of Pittsburgh (2004 - 07)
 
 ***2017 – 2020***  
 
-Consultant | Various | Remote
+**Consultant | Various | Remote**
 Provided consulting services for several large companies including requirements gathering & research, training, documentation and project management. Oversaw multiple development teams including deployment and testing plans.
 
 ***2014– 2016***  
 
-Lead Developer | Dry Ink Creative | Remote
+**Lead Developer | Dry Ink Creative | Remote**
 Technical lead responsibile for developing and maintaining over 25 web applications and sites. Oversaw a team of 6 developers. Handled hiring and onboarding of new developers. Knowledgebase and documentation
 
 ***2010 – 2014***  
 
-Senior Web Analyst | NOVA Chemicals | Pittsburgh, PA
+**Senior Web Analyst | NOVA Chemicals | Pittsburgh, PA**
 Responsible for developing and maintaining entire corporate intra and external web presence. Internal consultant and lead on more than a dozen sub-websites and web applications. Lead knowledgebase and documentation . Handled training and onboarding for new developers and content stakeholders.
-Prior to 2010
-Various Junior-level Analyst roles | Pittsburgh, PA
+
+****Prior to 2010****  
+
+**Various Junior-level Analyst roles | Pittsburgh, PA** 
 
 ## Skills
 
