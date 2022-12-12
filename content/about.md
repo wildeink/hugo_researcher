@@ -6,6 +6,8 @@ title = "Christopher Joy | chrisjoy.asia"
 
 I recently graduated with Distinction from [SOAS, University of London](https://www.soas.ac.uk/) with a Post-Graduate Master's degree in Area Studies (Southeast Asia) in an effort to make a career change. My coursework focused on the politics and political economies of both mainliand and island Southeast Asia. My thesis explored the early success of Vietnam's COVID-19 response in the context of state-society relations.
 
+I am currently looking for my first research and analysis position post-graduation.
+
 I also hold two Bachelor's degrees, both cum laude, from the [University of Pittsburgh](https://www.pitt.edu/), one in Information Science and another in Finance.
 
 I spent my early professional life working Pittsburgh, PA, USA in IT for a large chemicals and plastics corporation. I later took several contracts in the US, and Asia that allowed me to work remotely, and from and in various locations including Ha Noi, Vietnam, Bangkok, and Singapore. 
