@@ -2,14 +2,14 @@
 title = "Christopher Joy | chrisjoy.asia"
 +++
 
-## About 
+## About - Recent
 
 {{< figure class="avatar" src="/chris_new_new.png" alt="avatar">}}
 
 This is a Hugo based resume template. You can find the full source code on
 [GitHub](https://github.com/ojroques/hugo-researcher).
 
-## Research Interest - Works
+## Research Interest
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum
 ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio
