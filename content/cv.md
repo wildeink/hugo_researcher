@@ -4,57 +4,41 @@ title = "Christopher Joy | CV"
 
 ## CV
 
+Email: [chrisjoy@fastmail.com](mailto:chrisjoy@fastmail.com).
+Phone: +1 412 448 1439
 
-This is a Hugo based resume template. You can find the full source code on
-[GitHub](https://github.com/ojroques/hugo-researcher).
+## Objective
 
-## Research Interest
+Recent Postgraduate Master’s graduate and former software developer with strong professional history seeking to enter a research or operational position relating to Southeast Asia after a career change.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum
-ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio
-pharetra quis[^1]. Mauris id urna ante.
+## Degrees
 
-Fusce pharetra diam ac nisi aliquet, velegestas ex iaculis. Pellentesque
-laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit[^2]. Nunc
-ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+SOAS, University of London (2021 - 22)
 
-## Publications
+* MA Southeast Asian Area Studies, Major/Focus: Politics of Southeast Asia | Oct. 2022
 
-In chronological order:
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+University of Pittsburgh (2004 - 07)
 
-## Typography
+* B.Sc. Finance, B.Sc. Information Science, cum laude
 
-This is a [link](http://google.com). Something *italics* and something **bold**.
+## Career Experience
 
-Here is a table:
+*2017 – 2020*
+Consultant | Various | Remote
+Provided consulting services for several large companies including requirements gathering & research, training, documentation and project management. Oversaw multiple development teams including deployment and testing plans.
+*2014– 2016*
+Lead Developer | Dry Ink Creative | Remote
+Technical lead responsibile for developing and maintaining over 25 web applications and sites. Oversaw a team of 6 developers. Handled hiring and onboarding of new developers. Knowledgebase and documentation
+*2010 – 2014*
+Senior Web Analyst | NOVA Chemicals | Pittsburgh, PA
+Responsible for developing and maintaining entire corporate intra and external web presence. Internal consultant and lead on more than a dozen sub-websites and web applications. Lead knowledgebase and documentation . Handled training and onboarding for new developers and content stakeholders.
+Prior to 2010
+Various Junior-level Analyst roles | Pittsburgh, PA
 
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
+## Skills
 
-Here is a horizontal rule:
-
----
-
-Here is a blockquote:
-
-> To a great mind, nothing is little
-
-Here is a `code` block:
-
-```python
-def is_elementary():
-  return True
-```
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
-
-[^1]: This is the first footnote.
-[^2]: This is the second footnote.
+* Topical and Area Research
+* Vietnamese, Working proficiency
+* Bahasa Indonesia, Elementary proficiency
+* Project Management & Training
+* High-level technology proficiency, and knowledge of multiple software languages, and development packages
