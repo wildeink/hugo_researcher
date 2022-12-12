@@ -38,7 +38,7 @@ Technical lead responsibile for developing and maintaining over 25 web applicati
 **Senior Web Analyst | NOVA Chemicals | Pittsburgh, PA**
 Responsible for developing and maintaining entire corporate intra and external web presence. Internal consultant and lead on more than a dozen sub-websites and web applications. Lead knowledgebase and documentation . Handled training and onboarding for new developers and content stakeholders.
 
-****Prior to 2010****  
+***Prior to 2010***  
 
 **Various Junior-level Analyst roles | Pittsburgh, PA** 
 
