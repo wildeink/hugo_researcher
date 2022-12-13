@@ -15,11 +15,12 @@ Recent Postgraduate Master’s graduate and former software developer with stron
 
 SOAS, University of London (2021 - 22)
 
-* MA Southeast Asian Area Studies, Major/Focus: Politics of Southeast Asia | Oct. 2022
+* MA Area Studies, Southeast and Pacific Asian Studies, ***graduated with distinction***
+* Major/Thesis: Politics of Southeast Asia | Oct. 2022
 
 University of Pittsburgh (2004 - 07)
 
-* B.Sc. Finance, B.Sc. Information Science, cum laude
+* B.Sc. Finance, B.Sc. Information Science, ***cum laude***
 
 ## Career Experience
 
@@ -30,7 +31,7 @@ Provided consulting services for several large companies including requirements 
 
 ***2014– 2016***  
 
-**Lead Developer | Dry Ink Creative | Remote**
+**Lead Developer, Principle | Dry Ink Creative/Developers | Remote**
 Technical lead responsibile for developing and maintaining over 25 web applications and sites. Oversaw a team of 6 developers. Handled hiring and onboarding of new developers. Knowledgebase and documentation
 
 ***2010 – 2014***  
@@ -40,7 +41,7 @@ Responsible for developing and maintaining entire corporate intra and external w
 
 ***Prior to 2010***  
 
-**Various Junior-level Analyst roles | Pittsburgh, PA** 
+**Various Junior-level Analyst roles | Pittsburgh, PA**
 
 ## Skills
 
