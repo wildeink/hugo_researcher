@@ -4,7 +4,7 @@ title = "Christopher Joy | chrisjoy.asia"
 
 {{< figure class="avatar" src="/chris_new_new.png" alt="avatar">}}
 
-I recently graduated with Distinction from [SOAS, University of London](https://www.soas.ac.uk/) with a Post-Graduate Master's degree in Area Studies (Southeast Asia) in an effort to make a career change. My coursework focused on the politics and political economies of both mainliand and island Southeast Asia. My thesis explored the early success of Vietnam's COVID-19 response in the context of state-society relations.
+I recently graduated with Distinction from [SOAS, University of London](https://www.soas.ac.uk/) with a Post-Graduate Master's degree in Area Studies (Southeast Asia) in an effort to make a career change. My coursework focused on the politics, cultures and political economies of both mainland and island Southeast Asia. My thesis explored the early success of Vietnam's COVID-19 response in the context of state-society relations.
 
 I am currently looking for my first research and analysis position post-graduation.
 
