@@ -10,10 +10,11 @@ I am currently looking for my first research and analysis position post-graduati
 
 I also hold two Bachelor's degrees, both cum laude, from the [University of Pittsburgh](https://www.pitt.edu/), one in Information Science and another in Finance.
 
-I spent my early professional life working Pittsburgh, PA, USA in IT for a large chemicals and plastics corporation. I later took several contracts in the US, and Asia that allowed me to work remotely, and from and in various locations including Ha Noi, Vietnam, Bangkok, and Singapore. 
+I spent my early professional life working Pittsburgh, PA, USA in IT for a large chemicals and plastics corporation. I later took several contracts in the US, and Asia that allowed me to work remotely, and from and in various locations including Ha Noi, Vietnam, Bangkok, and Singapore.
+
 ## Research Interests
 
-While my main research interests follow my Master's thesis, the effects of state-society relations in Southeast Asia, with a concentration on effective authoritarian states, I'm interested in all aspects of Southeast Asia history, its economies, cultures and peoples. 
+While my main research interests follow my Master's thesis, the effects of state-society relations in Southeast Asia, with a concentration on effective authoritarian states, I'm interested in all aspects of Southeast Asia history, its economies, cultures and peoples.
 
 I speak, read, and write proficient Vietnamese, specificially the Northern (so-called Hanoian) dialect. I also have working knowledge of Bahasa Indonesia after two terms of Indonesian classes at SOAS, Unversity of London.
 <!-- ## Publications
