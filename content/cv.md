@@ -26,7 +26,7 @@ University of Pittsburgh (2004 - 07)
 
 ***2017 – 2020***  
 
-**Consultant | Various | Remote**
+**Consultant, Freelance | Various | Remote**
 Provided consulting services for several large companies including requirements gathering & research, training, documentation and project management. Oversaw multiple development teams including deployment and testing plans.
 
 ***2014– 2016***  
