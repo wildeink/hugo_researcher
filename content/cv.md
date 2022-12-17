@@ -4,8 +4,8 @@ title = "Christopher Joy | CV"
 
 <!-- ## CV -->
 
-Email: [chrisjoy@fastmail.to](mailto:chrisjoy@fastmail.to).
-Phone: +1 412 448 1439
+Email: [chrisjoy@fastmail.to](mailto:chrisjoy@fastmail.to)
+Phone: +1 Four One Two Four Four Eight Fourteen Thirty-Nine
 
 ## Objective
 
