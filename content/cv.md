@@ -7,11 +7,11 @@ title = "Christopher Joy | CV"
 Email: [chrisjoy@fastmail.to](mailto:chrisjoy@fastmail.to)
 Phone: +1 Four One Two Four Four Eight Fourteen Thirty-Nine
 
-## Objective
+### Objective
 
 Recent Postgraduate Master’s graduate and former software developer with strong professional history seeking to enter a research or operational position relating to Southeast Asia after a career change.
 
-## Degrees
+### Degrees
 
 SOAS, University of London (2021 - 22)
 
@@ -22,7 +22,7 @@ University of Pittsburgh (2004 - 07)
 
 * B.Sc. Finance, B.Sc. Information Science, ***cum laude***
 
-## Career Experience
+### Career Experience
 
 ***2017 – 2020***  
 
@@ -43,7 +43,7 @@ Responsible for developing and maintaining entire corporate intra and external w
 
 **Various Junior-level Analyst roles | Pittsburgh, PA**
 
-## Skills
+### Skills
 
 * Topical and Area Research, focus on Southeast Asia
 * Vietnamese, Working proficiency
