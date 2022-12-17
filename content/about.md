@@ -10,7 +10,7 @@ I am currently looking for my first research and analysis position post-graduati
 
 I also hold two Bachelor's degrees, both cum laude, from the [University of Pittsburgh](https://www.pitt.edu/), one in Information Science and another in Finance.
 
-I spent my early professional life working in Pittsburgh, PA, USA as an IT Analyst and web developer for a large chemicals and plastics corporation. I later took several contracts in the US, and Asia that allowed me to work remotely, and from and in various locations including Ha Noi, Vietnam, Bangkok, and Singapore.
+I spent my early professional life working in Pittsburgh, PA, USA as an IT Analyst and Senior Web Developer for a large chemicals and plastics corporation. I later took several contracts in the US, and Asia that allowed me to work remotely, and from and in various locations including Ha Noi, Vietnam, Bangkok, and Singapore.
 
 ## Research Interests
 
