@@ -20,7 +20,8 @@ Recent Postgraduate Master’s graduate and former software developer with stron
 
 #### University of Pittsburgh (2004 - 07)
 
-* B.Sc. Finance, B.Sc. Information Science, ***cum laude***
+* B.Sc. Finance, ***cum laude***
+* B.Sc. Information Science, ***cum laude***
 
 ### Career Experience
 
