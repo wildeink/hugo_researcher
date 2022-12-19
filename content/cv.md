@@ -28,7 +28,7 @@ Recent Postgraduate Master’s graduate and former software developer with stron
 ***2017 – 2020***  
 
 **Consultant, Freelance | Various | Remote**  
-Provided consulting services for several large companies including requirements gathering & research, training, documentation and project management. Oversaw multiple development teams including deployment and testing plans.
+Provided consulting services including requirements gathering & research, training, documentation and project management. Worked closely with development teams to develop deployment and testing plans. Oversaw numerous large projects from inception to completion, and post-hoc support.
 
 ***2014– 2017***  
 
