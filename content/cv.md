@@ -33,7 +33,7 @@ Provided consulting services including requirements gathering & research, traini
 ***2014– 2017***  
 
 **Lead Developer, Principle | Dry Ink Creative/Developers | Remote**  
-Technical lead responsibile for developing and maintaining over 25 web applications and sites. Oversaw a multi-developer team. Handled hiring and onboarding of new developers. Knowledgebase and documentation lead.
+Technical lead responsibile for developing and maintaining over a dozen web applications and sites. Oversaw a multi-developer team. Handled hiring and onboarding of new developers. Knowledgebase and documentation lead.
 
 ***2010 – 2014***  
 
