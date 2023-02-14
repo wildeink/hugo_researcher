@@ -22,7 +22,7 @@ Phone: +1 Four One Two Four Four Eight Fourteen Thirty-Nine
 * **MA Area Studies** (Southeast and Pacific Asian Studies) *with Distinction*
 * Major/Thesis: Politics of Southeast Asia
 
-#### University of Pittsburgh 
+#### University of Pittsburgh
 
 * B.Sc. Finance, ***cum laude***
 * B.Sc. Information Science, ***cum laude***
@@ -32,7 +32,7 @@ Phone: +1 Four One Two Four Four Eight Fourteen Thirty-Nine
 ### SKILLS AND STRENGTHS
 
 * Research – Detail oriented research abilities with a willingness to perform exhaustive literature reviews and seek relevant interdisciplinary ideas Southeast & Pacific Asian)
-* Flexible - Successful leader and subordinate capable of working with people of from a variety of backgrounds. 
+* Flexible - Successful leader and subordinate capable of working with people of from a variety of backgrounds.
 * Management - Proactive project management and operational experience including extensive use of applications such as Basecamp, Excel, accounting software.
 * Deep IT skills – Extensive experience using a multitude of software technologies, data/database analysis, requirements gathering, planning and implementation
 * Multi-lingual – Proficient in Vietnamese, and through coursework, working knowledge of Bahasa Indonesia.
