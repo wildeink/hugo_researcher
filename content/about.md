@@ -11,6 +11,9 @@ title = "Christopher Joy | chrisjoy.asia"
 He has work predominately in the Asia-Pacific region, mostly in the technology sector, since 2014.
 
 Christopher can speak, read, and write proficient Vietnamese, specificially the Northern (so-called Hanoian) dialect. He also has working knowledge of Bahasa Indonesia.
+
+Find him on [Twitter](https://twitter.com/EdTeach__)
+
 <!-- ## Publications
 
 In chronological order:
