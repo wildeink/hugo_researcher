@@ -4,19 +4,13 @@ title = "Christopher Joy | chrisjoy.asia"
 
 {{< figure class="avatar" src="/chris_new_new.png" alt="avatar">}}
 
-I recently graduated with Distinction from [SOAS, University of London](https://www.soas.ac.uk/) with a Post-Graduate Master's degree in Area Studies (Southeast Asia) in an effort to make a career change. My coursework focused on the politics, cultures and political economies of both mainland and island Southeast Asia. My thesis explored the early success of Vietnam's COVID-19 response in the context of state-society relations.
+## About
 
-I am currently looking for my first research and analysis position post-graduation.
+ Christopher recently graduated with Distinction from [SOAS, University of London](https://www.soas.ac.uk/) with a Post-Graduate Master's degree in Area Studies (Southeast Asia). His research and interests focus on the politics, cultures and political economies of both mainland and island Southeast Asia. His thesis explored the early success of Vietnam's COVID-19 response in the context of state-society relations.He also hold two Bachelor's degrees from the [University of Pittsburgh](https://www.pitt.edu/).
 
-I also hold two Bachelor's degrees, both cum laude, from the [University of Pittsburgh](https://www.pitt.edu/), one in Information Science and another in Finance.
+He has work predominately in the Asia-Pacific region, mostly in the technology sector, since 2014.
 
-I spent my early professional life working in Pittsburgh, PA, USA as an IT Analyst and Senior Web Developer for a large chemicals and plastics corporation. I later took several contracts in the US, and Asia that allowed me to work remotely, and from and in various locations including Ha Noi, Vietnam, Bangkok, and Singapore.
-
-## Research Interests
-
-While my main research interests follow my Master's thesis, the effects of state-society relations in Southeast Asia, with a concentration on effective authoritarian states, I'm interested in all aspects of Southeast Asia history, its economies, cultures and peoples.
-
-I speak, read, and write proficient Vietnamese, specificially the Northern (so-called Hanoian) dialect. I also have working knowledge of Bahasa Indonesia after two terms of Indonesian classes at SOAS, Unversity of London.
+Christopher can speak, read, and write proficient Vietnamese, specificially the Northern (so-called Hanoian) dialect. He also has working knowledge of Bahasa Indonesia.
 <!-- ## Publications
 
 In chronological order:
