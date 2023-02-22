@@ -7,7 +7,7 @@ title = "Christopher Joy | CV"
 Email: [chrisjoy@fastmail.to](mailto:chrisjoy@fastmail.to)  
 Phone: +1 Four One Two Four Four Eight Fourteen Thirty-Nine
 
-#### Experienced former Tech Analyst with years of professional, consulting, operations and project management experience making a career change
+#### Experienced former Tech Analyst with years of professional, consulting, operations and project management experience
 
 * Decade-plus experience as a working professional including stints as a consultant and project manager
 * Successfully led multiple teams through project inception to completion, and post-hoc support
