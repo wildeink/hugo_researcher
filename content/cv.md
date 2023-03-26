@@ -17,9 +17,9 @@ Phone: +1 Four One Two Four Four Eight Fourteen Thirty-Nine
 
 ### EDUCATION
 
-#### SOAS, University of London (2021 - 22)
+#### SOAS, University of London
 
-* **MA Area Studies** (Southeast and Pacific Asian Studies) *with Distinction*
+* **MA Area Studies** (Southeast and Pacific Asian Studies) *with Distinction*, Dec. '22
 * Major/Thesis: Politics of Southeast Asia
 
 #### University of Pittsburgh
