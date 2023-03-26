@@ -48,12 +48,12 @@ Phone: +1 Four One Two Four Four Eight Fourteen Thirty-Nine
 
 ### WORK HISTORY
 
-**Freelance/Consultant**, Web Developer & Project Manager, 2018 – 05/2020
+**Freelance/Consultant**, Web Developer & Project Manager
 
-**Dry Ink Creative**, Remote, Web Lead & Project Manager, 01/2016 – 06/2018
+**Dry Ink Creative**, Remote, Web Lead & Project Manager
 
-**Clarion River Organics**, Sligo PA, Operations Manager, 03/2014 - 10/2015
+**Clarion River Organics**, Sligo PA, Operations Manager
 
-**NOVA Chemicals**, Pittsburgh PA, Senior Analyst, 09/2010 - 10/2013
+**NOVA Chemicals**, Pittsburgh PA, Senior Analyst
 
-**NOVA Chemicals**, Pittsburgh PA, Web Analyst, 07/2007 - 05/2010
+**NOVA Chemicals**, Pittsburgh PA, Web Analyst
