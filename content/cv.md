@@ -52,8 +52,6 @@ Phone: +1 Four One Two Four Four Eight Fourteen Thirty-Nine
 
 **Dry Ink Creative**, Remote, Web Lead & Project Manager
 
-**Clarion River Organics**, Sligo PA, Operations Manager
-
 **NOVA Chemicals**, Pittsburgh PA, Senior Analyst
 
 **NOVA Chemicals**, Pittsburgh PA, Web Analyst
