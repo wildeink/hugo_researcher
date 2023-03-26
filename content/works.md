@@ -3,7 +3,7 @@ title = "Christopher Joy | Works"
 +++
 ## Selected Works
 
-***[World Superpowers, Sanctions and Semiconductors](https://1drv.ms/b/s!AoXVpPeXbG9D92jXdQ8iZIhRIZ1c?e=fIFKpa) - 12/2022***
+***BRIEF: [World Superpowers, Sanctions and Semiconductors](https://1drv.ms/b/s!AoXVpPeXbG9D92jXdQ8iZIhRIZ1c?e=fIFKpa) - 12/2022***
 
 Analysis of semiconductor market through lens of US/China trade conflict with special focus on Vietnam's gains
 
