@@ -46,12 +46,30 @@ Phone: +1 Four One Two Four Four Eight Fourteen Thirty-Nine
 * Principle partner in web development agency that successfully deployed over twenty major projects ranging across multiple industries including recreation resorts, the film industry, major insurance providers, and healthcare
 * Operations manager responsible for logistically complex organic farming operation that coordinated 6 large-scale organic farming operations
 
-### WORK HISTORY
+### RELEVANT WORK HISTORY
 
-**Freelance/Consultant**, Web Developer & Project Manager
+<!-- **Freelance/Consultant**, Web Developer & Project Manager
 
 **Dry Ink Creative**, Remote, Web Lead & Project Manager
 
 **NOVA Chemicals**, Pittsburgh PA, Senior Analyst
 
-**NOVA Chemicals**, Pittsburgh PA, Web Analyst
+**NOVA Chemicals**, Pittsburgh PA, Web Analyst -->
+**Tech Analyst & Project Manager, Freelance-Consultant - Uber Vietnam, Accenture, Twitter Asia Region 2017 – 05/2021
+
+* Led investigations and projects from initial requirements gathering to completion, including post hoc support.
+* Developed and maintained a knowledge base and led stakeholder adoption and training programs.
+* Assisted in hiring and onboarding both new developers and support service staff.
+
+**Web Lead & Project Manager, Remote, Dry Ink Creative, 01/2015 – 06/2018
+
+* Lead developer and project manager responsible for full project lifecycle and post hoc support including continuous client-facing requirements gathering and needs assessments.
+* Managed multiple developers and designers through project completion.
+* Oversaw projects covering various industries including healthcare, media, insurance, and real estate industries.
+
+**Senior Analyst/Web Analyst, Pittsburgh PA, Multiple Roles – NOVA Chemicals, 09/2008 - 10/2013
+
+* Developed large web applications for multiple departments including corporate intranet and external facing corporate site.
+* Shepherded projects from needs assessment and analysis to the support stage.
+* First-line technical support for internal stakeholder clients and their myriad web applications.
+* Responsible for training and onboarding new developers, and new web application users.
