@@ -8,11 +8,11 @@ title = "Christopher Joy | chrisjoy.asia"
 
  Christopher Joy (M.A. Area Studies (Southeast Asia) with Distinction, [SOAS, University of London](https://www.soas.ac.uk/) is an indepdendent researcher. His research and interests focus on the politics, cultures and political economies of both mainland and island Southeast Asia. His master's thesis explored the early success of Vietnam's COVID-19 response in the context of state-society relations. He also holds two Bachelor's degrees from the [University of Pittsburgh](https://www.pitt.edu/).
 
-He has worked predominately in the Asia-Pacific region.
+Christopher spent his early career working for both large and small companies as a software & web analyst. Since the early 2010s he has worked predominately in the Asia-Pacific region as a consultant and researcher.
 
 Christopher can speak, read, and write proficient Vietnamese, specificially the Northern (so-called Hanoian) dialect. He also has working knowledge of Bahasa Indonesia.
 
-Contact him [Contact](/contact)
+Contact him [here](/contact)
 
 <!-- ## Publications
 
