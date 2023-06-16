@@ -9,7 +9,6 @@ Vietnam's battle for clear sidewalks:
 The one-party state spent years trying to clear pedestrian sidewalks.
 Yet its latest incarnation is likely more détente and dance than victory.
 
-
 ***Brief: [World Superpowers, Sanctions and Semiconductors](https://1drv.ms/b/s!AoXVpPeXbG9Dgb1r-F4DMRDJmbZq1g?e=qnyEeT) - 12/2022***
 
 Analysis of semiconductor market through lens of US/China trade conflict with special focus on Vietnam's gains
